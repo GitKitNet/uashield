@@ -62,7 +62,7 @@
     "electron": "^17.1.0",
     "electron-builder": "22.14.13",
     "electron-packager": "^15.4.0",
-    "esbuild": "0.14.27",
+    "esbuild": "0.25.0",
     "eslint": "^7.14.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.4",
