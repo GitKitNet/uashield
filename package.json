@@ -20,7 +20,7 @@
     "@types/node-fetch": "^2.6.1",
     "@types/superagent": "^4.1.15",
     "apexcharts": "^3.35.0",
-    "axios": "^0.26.1",
+    "axios": "^1.8.2",
     "axios-https-proxy-fix": "^0.17.1",
     "axios-socks5-agent": "^1.0.5",
     "core-js": "^3.21.1",
